@@ -1,3 +1,3 @@
-const backendUrl = 'https://bughound-api.vercel.app';
+const backendUrl = 'https://bughound-backend.onrender.com';
 
 export default backendUrl;
